@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "qB9kxlWWmPs=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Isael\\Documents\\Testes\\ContactProject\\Contacts.API\\Contacts.API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Isael\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\Isael\\.nuget\\packages\\microsoft.openapi\\1.6.14\\microsoft.openapi.1.6.14.nupkg.sha512",
+    "C:\\Users\\Isael\\.nuget\\packages\\swashbuckle.aspnetcore\\6.7.1\\swashbuckle.aspnetcore.6.7.1.nupkg.sha512",
+    "C:\\Users\\Isael\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.7.1\\swashbuckle.aspnetcore.swagger.6.7.1.nupkg.sha512",
+    "C:\\Users\\Isael\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.7.1\\swashbuckle.aspnetcore.swaggergen.6.7.1.nupkg.sha512",
+    "C:\\Users\\Isael\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.7.1\\swashbuckle.aspnetcore.swaggerui.6.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}
