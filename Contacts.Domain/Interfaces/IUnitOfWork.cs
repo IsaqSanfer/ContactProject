@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Contacts.Domain.Interfaces;
 
-public interface IUnifOfWork
+public interface IUnitOfWork
 {
     Task Commit();
 }
